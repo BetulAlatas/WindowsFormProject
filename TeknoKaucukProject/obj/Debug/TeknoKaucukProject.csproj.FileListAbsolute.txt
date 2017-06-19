@@ -1,0 +1,9 @@
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\bin\Debug\TeknoKaucukProject.exe.config
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\obj\Debug\TeknoKaucukProject.csprojResolveAssemblyReference.cache
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\obj\Debug\TeknoKaucukProject.csproj.GenerateResource.Cache
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\obj\Debug\TeknoKaucukProject.Properties.Resources.resources
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\bin\Debug\TeknoKaucukProject.exe
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\bin\Debug\TeknoKaucukProject.pdb
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\obj\Debug\TeknoKaucukProject.exe
+c:\users\betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\obj\Debug\TeknoKaucukProject.pdb
+C:\Users\Betul\documents\visual studio 2015\Projects\TeknoKaucukProject\TeknoKaucukProject\obj\Debug\TeknoKaucukProject.Form1.resources
